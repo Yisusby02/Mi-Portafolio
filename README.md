@@ -10,7 +10,7 @@ Una landing page diseñada para un negocio de donas con un enfoque innovador. El
 
 | Versión Móvil | Versión de Escritorio |
 | :--- | :--- |
-| ![Celular](img/oltreildolce.netlify.app_.png.png) | ![PC](img/oltreildolce.netlify.app_(iPhone%2014%20Pro%20Max).png.png) |
+| ![Celular](img/oltreildolce.netlify.app_(Iphone-14-Pro-Max).png) | ![PC](img/oltreildolce.netlify.app_.png) |
 
 ---
 ## 📂 Otros Proyectos
